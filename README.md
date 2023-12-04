@@ -1,5 +1,3 @@
-# Mechaneus Security Research and Bug Hunting
-
 ## About Me
 
 Welcome to the my Security Research page. I am a passionate bug hunter and security researcher, dedicated to discovering vulnerabilities and contributing to a safer digital world.
