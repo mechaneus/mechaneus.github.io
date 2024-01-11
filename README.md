@@ -20,4 +20,4 @@ Follow me on [Twitter](https://twitter.com/mechaneus).
 > Stored Cross-Site Scripting (XSS) in SVG image file uploaded in File Manager in Sunlight CMS 8.0.1.
 > [Read More](CVE-2023-48202.md)
 
-&copy; 2023 @mechaneus. All rights reserved.
+&copy; 2024 @mechaneus. All rights reserved.
