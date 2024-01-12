@@ -21,7 +21,7 @@ Follow me on [Twitter](https://twitter.com/mechaneus).
 > [Read More](CVE-2023-48202.md)
 
 - CVE-PENDING-COTONTI
-> Stored XSS in Edit Page functionality in Cotonti CMS 0.9.24 allows remote authenticated users to inject arbitrary web script or HTML via the 'rpagetext' form field.
+> Stored Cross-Site Scripting (XSS) in Edit Page functionality in Cotonti CMS 0.9.24 allows remote authenticated users to inject arbitrary web script or HTML via the 'rpagetext' form field.
 > [Read More](CVE-PENDING-COTONTI.md)
 
 &copy; 2024 @mechaneus. All rights reserved.
