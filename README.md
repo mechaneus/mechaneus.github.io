@@ -20,8 +20,8 @@ Follow me on [Twitter](https://twitter.com/mechaneus).
 > Stored Cross-Site Scripting (XSS) in SVG image file uploaded in File Manager in Sunlight CMS 8.0.1.
 > [Read More](CVE-2023-48202.md)
 
-- [CVE-PENDING-COTONTI](CVE-PENDING-COTONTI.md)
+- [CVE-2024-24115](CVE-2024-24115.md)
 > Stored Cross-Site Scripting (XSS) in Edit Page functionality in Cotonti CMS 0.9.24 allows remote authenticated users to inject arbitrary web script or HTML via the 'rpagetext' form field.
-> [Read More](CVE-PENDING-COTONTI.md)
+> [Read More](CVE-2024-24115.md)
 
 &copy; 2024 @mechaneus. All rights reserved.
