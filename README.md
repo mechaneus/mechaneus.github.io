@@ -2,7 +2,7 @@
 
 Welcome to the my Security Research page. I am a passionate bug hunter and security researcher, dedicated to discovering vulnerabilities and contributing to a safer digital world.
 
-Follow me on [Twitter](https://twitter.com/mechaneus).
+Follow me on [Twitter](https://twitter.com/mechaneus) and [Bluesky](https://bsky.app/profile/mechaneus.bsky.social).
 
 ---
 
